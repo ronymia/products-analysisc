@@ -1,0 +1,5 @@
+nav a {
+    margin-left: .8rem;
+    text-transform: uppercase;
+    border-bottom: 2px solid gray;
+}
