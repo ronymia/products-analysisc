@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "image": "https://i.ibb.co/tXKJkGf/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+        "email": "Sincere@april.biz",
+        "comment": "Everything is fresh"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "image": "https://i.ibb.co/gVnF9qr/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+        "email": "Shanna@melissa.tv",
+        "comment": "Dissapointed with this shop. We have been shopping here for many years. This morning I went to buy Garlic and ginger. They were in pre packed bags, bought it home to find out most of it is rotton! Why are you selling produce that's been packed by your staff knowing full well that's the produce is bad. Stop being so greedy and fooling the People that have made you successful. Absolutely disgusted."
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "image": "https://i.ibb.co/fxCpzjj/ed-pylypenko-7zcbtb-I4-E2o-unsplash.jpg",
+        "email": "Nathan@yesenia.net",
+        "comment": "People are not maintaining social distance at all. Even workers was extremely close to each other. End of the day NHS will face the more pressure."
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "image": "https://i.ibb.co/xsrvz8X/julian-wan-WNo-Ln-Jo7t-S8-unsplash.jpg",
+        "email": "Julianne.OConner@kory.org",
+        "comment": "always got what I needed, fairly priced"
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "image": "https://i.ibb.co/gJW41G4/windows-c-l-UYt-Njqxw-unsplash.jpg",
+        "email": "Lucio_Hettinger@annie.ca",
+        "comment": "Great for grocery shopping. Fruit and veg in abundance."
+    },
+    {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "username": "Leopoldo_Corkery",
+        "image": "https://i.ibb.co/R054K4H/foto-sushi-6anudmp-ILw4-unsplash.jpg",
+        "email": "Karley_Dach@jasper.info",
+        "comment": "The staffs are unhelpful there. Customer are always trying to jump ahead off you in the queue and the staff ignore it."
+    },
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "username": "Elwyn.Skiles",
+        "image": "https://i.ibb.co/c3s6Lmg/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "email": "Telly.Hoeger@billy.biz",
+        "comment": "Kacha Bazar is the worst place you can shop at. The shop is so small, there is no space to walk around. The staff working at the till are so rude, no manners, they speak to customers as if customers are begging vegetables of them. My advice to management is send your staff to customer service course so at least they can train them so basic customer service. We as customer are here to buy things from you. We are not beggers."
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "username": "Maxime_Nienow",
+        "image": "https://i.ibb.co/gJW41G4/windows-c-l-UYt-Njqxw-unsplash.jpg",
+        "email": "Sherwood@rosamond.me",
+        "comment": "Not the only place with fresh food"
+    }
+]
